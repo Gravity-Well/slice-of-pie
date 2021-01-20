@@ -3,12 +3,17 @@
   "version": "1.1.0",
   "description": "returns a slice of PI between 1-23000 digits",
   "main": "index.js",
+  "homepage": "https://github.com/Gravity-Well/slice-of-pie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gravity-Well/slice-of-pie.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "pi"
   ],
-  "author": "gravity-well",
+  "author": "gravity-well <bobtomlin@gmail.com>",
   "license": "ISC"
 }
