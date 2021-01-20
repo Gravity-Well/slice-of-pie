@@ -1,0 +1,14 @@
+{
+  "name": "slice-of-pi",
+  "version": "1.1.0",
+  "description": "returns a slice of PI between 1-23000 digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pi"
+  ],
+  "author": "gravity-well",
+  "license": "ISC"
+}
